@@ -1,4 +1,4 @@
-# A mini translate tool in Node.js
+# A mini translation tool in Node.js
 
 ## Install
 

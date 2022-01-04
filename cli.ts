@@ -4,7 +4,7 @@ import {translate} from './src/main';
 
 const program = new commander.Command();
 
-program.version('1.0.0')
+program.version('1.0.1')
   .name('fy')
   .usage('<word>')
   .argument('<word>')
