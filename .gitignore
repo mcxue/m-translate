@@ -1,5 +1,7 @@
 /node_modules
 /src/private.ts
+/dist
+
 .DS_Store
 .idea
 .vscode
